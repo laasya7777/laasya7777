@@ -43,8 +43,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge)
-
 ![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge)
 
 ---
