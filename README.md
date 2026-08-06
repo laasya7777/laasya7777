@@ -91,18 +91,6 @@ SQL
 
 ---
 
-# 🏆 GitHub Trophy
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=laasya7777&theme=tokyonight&column=4)
-
----
-
-## 👀 Visitor Count
-
-![Visitor Count](https://komarev.com/ghpvc/?username=laasya7777&color=blueviolet&style=for-the-badge)
-
----
-
 # 💬 Quote
 
 > "Code with curiosity. Build with purpose. Learn without limits."
